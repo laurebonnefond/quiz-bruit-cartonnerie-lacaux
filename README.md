@@ -35,7 +35,7 @@ Outil pédagogique **PréventIA-LaB** — Laure Bonnefond, IPRP/IST.
 | 10 | QCM · LACAUX | MAP, bobineuse : 89 dB(A) |
 | 11 | QCM | Bouchon non porté 10 min = 50 % de protection perdue |
 | 12 | Vrai/Faux | Surdité due au bruit professionnel : irréversible |
-
+| 13 | Curseur | Niveau fréquence son  |
 ---
 
 ## 🚀 Déploiement sur GitHub Pages
